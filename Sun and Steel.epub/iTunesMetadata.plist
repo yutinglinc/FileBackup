@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>823296</integer>
+	<key>BKDisplayName</key>
+	<string>Sun-and-Steelepub</string>
+	<key>BKGenerationCount</key>
+	<integer>2</integer>
+	<key>BKInsertionDate</key>
+	<integer>774564297</integer>
+	<key>artistName</key>
+	<string>Yukio Mishima</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>F16428DC3E4CF1A926E93365167BFEE9</string>
+		<key>cover-image-path</key>
+		<string>cover.png</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>289EA9FC3FEF31F331A2A82DAD8C9AAB</string>
+		<key>publisher-unique-id</key>
+		<string>86ad80d6-a1c5-4e42-88d5-71fde879f585</string>
+		<key>unique-id</key>
+		<integer>3056177662080229568</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>Sun and Steel</string>
+	<key>updateDate</key>
+	<date>2025-07-18T20:44:57Z</date>
+</dict>
+</plist>
